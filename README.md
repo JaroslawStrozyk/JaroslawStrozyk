@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @JaroslawStrozyk
+- 👀 Currently I'm interested in python, django and their uses.
+- 🌱 I currently work as an IT specialist at PANSA and I have a small IT company
+- 💞️ I am looking for possible cooperation in IT-related projects.
+- 📫 How to reach me? jaroslaw.strozyk@gmail.com or biuro@edatabit.pl
